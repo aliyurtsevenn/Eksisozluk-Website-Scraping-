@@ -1,0 +1,2 @@
+22 ocak 2021 murat kaya'nın dövülmesi	# This gives you what entery you want to download as docx file?
+3	# How many pages you want to have?
